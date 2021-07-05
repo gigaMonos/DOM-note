@@ -263,3 +263,4 @@ if (standartStyle.hasAttribute('some-attribute')){
     console.log('yes Im')
 };
 const empl = 'ex for git';
+console.log('test 2');
