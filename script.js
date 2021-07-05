@@ -262,3 +262,4 @@ standartStyle.setAttribute('some-attribute', 'some-value');
 if (standartStyle.hasAttribute('some-attribute')){
     console.log('yes Im')
 };
+const empl = 'ex for git';
